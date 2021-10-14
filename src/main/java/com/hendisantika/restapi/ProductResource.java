@@ -33,7 +33,7 @@ import java.util.Date;
  * Date: 14/10/21
  * Time: 12.49
  */
-@Path("products")
+@Path("api/v1/products")
 @ApplicationScoped
 @Produces("application/json")
 @Consumes("application/json")
